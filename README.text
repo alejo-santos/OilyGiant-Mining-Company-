@@ -1,0 +1,8 @@
+This project is for OilyGiant Mining Company, where my objective is to identify the optimal location for a new oil well. The process involves the following steps:
+
+- Gather oil well parameters for the selected regions, including oil quality and reserve volume.
+- Develop a predictive model to estimate reserve volumes for new wells.
+- Select the wells with the highest estimated reserves.
+- Identify the region that offers the highest total profit based on the selected wells.
+
+Using data from three regions, where each oil well's parameters are already provided, I will build a model to identify the region with the best profit margin. Additionally, I will analyze potential profit and associated risks using the Bootstrapping technique.
